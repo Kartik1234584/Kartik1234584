@@ -164,8 +164,8 @@ A cloud-based image management application integrated with **Azure Blob Storage*
 ### 📫 Let's Connect
 
 <a href="https://github.com/Kartik1234584"><img src="https://img.shields.io/badge/GitHub-FF6EC7?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+<a href="mailto:skartik3779@gmail.com"><img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kartik-sadhu-8365b5378/"><img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
 
 <br/><br/>
 
